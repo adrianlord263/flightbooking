@@ -1,1 +1,2 @@
 # flightbooking
+app name flightbooking
